@@ -376,6 +376,7 @@ Denim;Denim (fabric)
 denta-materi;ivory
 denta-medika-fobo;dentophobia
 denta-medika-man;dentist
+denta-penelo;toothbrush
 denta;tooth, teeth, bite
 deo;god, divine
 dereka;right (direction, moral, legal), straight, orthodox (prefer 'dereko', 'reka')
@@ -652,7 +653,8 @@ gera;war
 germania-fobo;anti-Germanism, germanophobia, teutophobia
 Germania-linga;German (language), Deutsch
 Germania;Germany, Deutschland
-giga;billion
+giga-giga;quintillion, 1 000 000 000 000 000 000
+giga;billion, 1 000 000 000
 gitara;guitar, lute, a strummed instrument
 go;to, go, towards, for, marks future tense
 gomba;mushroom
@@ -878,6 +880,7 @@ kerusa;cross, intersect, intersection, crucifix
 kia;key, unlock
 kilo-ano;millennium
 kilo-gama;Kg, kilogram
+kilo-giga;trillion, 1 000 000 000 000
 kilo-mita;kilometer, kilometre, km
 kilo;thousand, 1000
 kinde-gaden;kindergarten
@@ -1142,12 +1145,13 @@ medika;medicine, medicinal
 Mega Britan;Great Britain
 mega-basara;supermarket
 mega-fobo;megalophobia
+mega-giga;quadrillion, 1 000 000 000 000 000
 mega-ise-lan;glacier
 mega-komputa;server (computer)
 mega-lida;tycoon
 mega-sono;loud
 mega-tingi-foli-lan;plateau (geography)
-mega;big, great, large, million, 1000000
+mega;big, great, large, million, 1 000 000
 Mehiko;México, Mexico (prefer 'Meksiko')
 Meksiko;México, Mexico (see 'Mehiko')
 melanje-bibe;potion, elixir, tonic
