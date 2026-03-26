@@ -420,6 +420,7 @@ direto;direction, orientation, guidance, course, direct, advice, advise
 disipa;waste (use without good purpose), squander
 dive;dive, plunge, submerge, sink
 divi-man;separatist
+divi-matemati;discrete mathematics
 divi;divide, split, division, separate
 dogi-fobo;cynophobia
 dogi;dog
@@ -489,6 +490,7 @@ elika-poten-pin;screw, bolt
 elika;helix, curl, twist, curly, spiral, coil, propeller, at sign, @
 emo-name;interjection
 emo;emotion, emotional, passionate, emote
+Empanada;empanada
 en-fini;marginal
 En-go punto;access point
 en-go;enter, access, penetrate, penetration (for pierce see 'pika'), step into (see 'en-mun')
@@ -579,6 +581,7 @@ fevere;fever, feverish
 fiba;fiber, string, thread, wire, ply, roughage, strand
 fide;faith, to trust, loyal
 figado;liver
+figura-matemati;geometry
 figura;figure, form, shape, structure, statue, figurine, setup, layout
 filete;steak, fillet, to fillet
 fili;son, daughter
@@ -696,6 +699,7 @@ Indonesia-linga;Indonesian, Bahasa indonesia
 Indonesia;Indonesia
 induseri;industry, industrial
 infero;hell, to damn, hellish
+infiniti-matemati;calculus
 infiniti-vole;greed
 infiniti;infinity, infinite
 Info senta;data center, data centre
@@ -864,6 +868,7 @@ kavalo;horse, donkey, mule
 kave;cave, cavern
 ke;what, that, introduce dependant clause
 Keisi;Casey
+Keju-tortija;quesadilla
 keju;cheese
 keki;cake
 kelabu;gray, grey
@@ -1019,6 +1024,7 @@ limi;limit, limited, restriction, boundary, border
 limon;lemon, lime, citrus
 limpe;limp, flaccid, floppy, to limp, lax
 lin;flash, lightning, bolt
+line-sitema-matemati;linear algebra
 line;line
 linga-name;vocabulary
 linga-regula;grammar (see 'name-jura')
@@ -1039,6 +1045,7 @@ London;London
 longo-kare;rectangle
 longo-midori-melon;cucumber
 longo-name-fobo;hippopotomonstrosesquipedaliophobia, hippopotomonstrosesquippedaliophobia
+longo-niku;sausage
 longo-pisi;eel (animal)
 longo-ruse;gaslight, gaslighting
 longo;long, length, longitude
@@ -1217,6 +1224,7 @@ mita;meter, metric
 mobili;furniture
 moda;mode, way, fashion, mood
 mogi;fly, gnat, mosquito
+moloko kon kakao;chocolate milk
 moloko;milk, milky
 momen-reaki;reflex (body)
 momen;moment, instant, instantaneous, immediate
@@ -1309,6 +1317,7 @@ neka;neck
 Nepal;Nepal
 Neptunus;Neptune
 nese;need, necessity, requirement, necessary
+neso-sitema-matemati;abstract algebra
 neso;abstract, abstraction, -ness, -ity
 neto-baton-ludi;tennis (game)
 neto-baton;racquet, racket
@@ -1388,6 +1397,7 @@ nulo-sori;unapologetic
 nulo-uti;useless, in vain
 nulo-vina;innocence, lack of guilt
 nulo;nothing, zero, 0
+numa-matemati;arithmetic
 numa-sino;hash, number sign, pound sign, #
 numa;number
 nun-aje;modern
@@ -1484,6 +1494,7 @@ pele-sofio-maladi;dermatitis, eczema
 pele;skin, surface, peel, hide (animal)
 pelo-bovi;bos grunniens, yak, domestic yak, tartary ox, grunting ox, hairy cattle
 pelo;hair, fur, feather, hairy
+pen-kaja;pen case, pencil case
 pen;pen, pencil, stylus
 pende;hang, hanging, suspension, suspense
 penelo;brush, comb, sweep, rake
@@ -1507,6 +1518,7 @@ pigi;pig, boar
 pigu;butt, ass
 pika-senti;tingle, tingling, shiver or prickle sensation
 pika;prick, pierce, sting
+Pikaja;picanha
 pila;yellow
 pile;pill, pellet, bullet
 pilo;pillow, cushion
@@ -1582,6 +1594,7 @@ raja-topi-viru;coronavirus
 raja;ruler, royal, king, queen
 raka;rack, shelf, ledge
 rama;arm, limb, branch
+Ramen;ramen, 拉麺, ラーメン, らあめん
 rampa-sino;slash, stroke, solidus, forward slash, diagonal, /
 rampa;ramp, lean, incline, slope, bow, slant, tilt, tilted
 rana;frog, toad
@@ -1706,6 +1719,9 @@ sama-sama;you are welcome
 sama-sesi;homosexuality, homosexual, gay, lesbian
 sama-sinifi;synonymous
 sama;like, as, than, same
+san-kona-figura;trangle (see 'san-kona')
+san-kona-matemati;trigonometry
+san-kona;triangle (see 'san-kona-figura')
 san;three, 3
 sando;sandwich
 sange-fobo;hemophobia
@@ -1818,6 +1834,7 @@ sinti;sparkle, twinkle, polish, shine
 siren;bell, siren, alarm, to chime, handbell, doorbell
 sisora;scissors, shears
 sita;six, 6
+sitema-matemati;algebra
 sitema;system, systematic, systematize, mechanism
 siti-neso;urbanism
 siti-senta;downtown, city centre, city center
@@ -1866,6 +1883,7 @@ sufi;enough, sufficient, suffice
 suga-basilo-moloko;yogurt, yoghurt, yogourt, yoghourt
 suga-bela;cute (see 'mini-bela')
 suga-bibe;soda, soft drink, soda pop, fizzy drink
+suga-maladi;diabetes mellitus
 suga-nuki-oranje-melon;butternut squash (pumpkin)
 suga;sugar, sweet
 sujesi;suggest, suggestion, hint, insinuation, propose (an idea), recommend
@@ -1965,6 +1983,7 @@ tore;tower, skyscraper, turret, steeple, minaret
 tori-fobo-pupe;scarecrow
 tori-fobo;ornithophobia
 tori;bird
+Tortija;tortilla
 tose;cough, bark
 toti;turtle, tortoise
 tovari;companion, spouse, partner, comrade
