@@ -41,10 +41,10 @@ header {
 
 h1 {
   font-weight: 200;
-  font-size: 40px;
+  font-size: 36px;
   letter-spacing: 3px;
   margin: 0;
-  margin-top: 1em;
+  margin-top: .4em;
 }
 @media screen and (max-width: 550px) {
   h1 {
@@ -54,7 +54,7 @@ h1 {
 
 .subtitle {
   font-weight: 300;
-  font-size: 20px;
+  font-size: 17px;
   margin: 0;
   margin-top: .2em;
 }
@@ -64,7 +64,7 @@ h1 {
 */
 
 main {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 #search-box {
@@ -166,7 +166,7 @@ input[type=checkbox]:checked::before {
 }
 
 .dictionary-words {
-  margin-top: 50px;
+  margin-top: 12px;
 }
 .word-container {
   margin: .1em 0;
