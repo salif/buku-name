@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.0
+### Changed
+- Updated UI: more compact.
+- Updated dictionary.
+
 ## 2.3.10
 ### Changed
 - Updated dictionary.
